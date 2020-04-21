@@ -3,6 +3,8 @@
 ## Overview
 Created a Jornal app using a templating engine EJS. 
 
+![picture of project](https://github.com/SeckMohameth/Journal/blob/master/Images/Screen%20Shot%202020-04-21%20at%205.47.20%20PM.png?raw=true)
+
 ## Usage
 After git cloning the repo run npm install to install all of the dependencies needed.
 
@@ -13,8 +15,6 @@ Technologies used:
 - Node.js
 - Express.js
 - Bootstrap
-
-![picture of project](https://github.com/SeckMohameth/Journal/blob/master/Images/Screen%20Shot%202020-04-21%20at%205.47.20%20PM.png?raw=true)
 
 # Credit
 Mohameth Seck
